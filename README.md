@@ -54,6 +54,6 @@ You will need also your current **iTunes Library.xml** file. Please have a look 
 
 Once you have uploaded your 3 files (**stars.xml**, **counters.xml**, **everything.xml**), simply run this command:
 
-	php merge.php -dmemory_limit=512M
+	./start.sh
 
 And then import the **final.xml** file in your iTunes... That's it!
